@@ -1,1 +1,1 @@
-# quickdsl
+# quick-plugin
